@@ -1,0 +1,27 @@
+@follow
+-v
+theo duổi
+@offer
+-v
+đề xuất
+@lend
+-v
+cho vay
+@discount
+-n
+giảm giá
+@reward
+-n
+phần thưởng
+@friend
+-n
+bạn bè
+@can
+-v
+có khả năng
+@she
+-n
+cô ấy
+@it
+-n
+nó
